@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Qdev1226
+- 👋 Hi, I’m Jay
 - 👀 I’m interested in Web and Mobile development
 - 🌱 I’m currently learning NextUI
 - 💞️ I’m looking to collaborate on ...
