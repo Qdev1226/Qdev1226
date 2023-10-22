@@ -1,16 +1,15 @@
-<h3 align="center">Full-Skilled Software Developer | Blockchain | Security | AI | Full-Stack | Mobile App</h3>
+<h3 align="center">Jay, Full-Skilled Software Developer | Blockchain | Security | AI | Full-Stack | Mobile App</h3>
 
 As a Full-Skilled Software Developer, I have full experiences within from C/C++/Java native programming to BlockChain/Security/AI/Full-Stack/Mobile App Development.
 
 - 💬 Ask me about **Blockchain, Full-Stack, Network Security, AI**
 
-- 📫 How to reach me **jbgoldman1104@gmail.com**
+- 📫 How to reach me **jayhayasi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zAAPhiyuJpERirWdjTioyA7cnqh8ULUl0/view?usp=sharing](https://drive.google.com/file/d/1zAAPhiyuJpERirWdjTioyA7cnqh8ULUl0/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/jbgoldman1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jbgoldman1104" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/jbgoldman1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="jbgoldman1104" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
