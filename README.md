@@ -185,5 +185,6 @@ As a Full-Skilled Software Developer, I have full experiences within from C/C++/
 </p>
 
 <p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=premChapagain&show_icons=true&theme=ADD_THEME_HERE" width="400">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Qdev1226&langs_count=40&layout=compact&theme=tokyonight&include_all_commits=true&line_height=40">
 </p>
